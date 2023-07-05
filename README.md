@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siductive
 - 👀 I’m interested in building a strong tech community
-- 🌱 I’m currently learning DSA in Python
-- 💞️ I’m looking to collaborate on Python development related projects
+- 🌱 I’m currently learning DSA in C++
+- 💞️ I’m looking to collaborate on development related projects
 - 📫 How to reach me - you can dm on linkedin at https://www.linkedin.com/in/siddhant-jain-6403bb216/
 
 <!---
